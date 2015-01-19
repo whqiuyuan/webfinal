@@ -1,2 +1,2 @@
 # webfinal
-my first repository of github in Pittsburgh
+my first repository of github
